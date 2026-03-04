@@ -2,7 +2,7 @@
 
 A professional, real-time responsive Ableton Live clip launcher interface designed for touchscreens (iPads, tablets, smartphones) built on top of Open Stage Control and AbletonOSC.
 
-![TouchLive Interface Preview](https://via.placeholder.com/800x400.png?text=TouchLive+Interface) *(Add your own screenshot here)*
+![TouchLive Interface Preview](./touchlive%20screenshot.png)
 
 ## ✨ Features
 * **Responsive 8x8 Clip Matrix:** Built with flawless percentage-based geometry. The pads automatically morph to perfectly fit any screen dimension or orientation without clipping.
