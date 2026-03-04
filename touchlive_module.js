@@ -1,6 +1,6 @@
 // =============================================================
-// Open Stage Control Custom Module for AbletonOSC
-// Load with: --custom-module /Users/audionoise/Desktop/ableton_module.js
+// TouchLIve - Open Stage Control Custom Module for AbletonOSC
+// Load with: --touchlive_module.js
 // =============================================================
 
 var trackNames = {};
