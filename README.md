@@ -7,7 +7,6 @@ A professional, real-time responsive Ableton Live clip launcher interface design
 ## ✨ Features
 * **Responsive 8x8 Clip Matrix:** Built with flawless percentage-based geometry. The pads automatically morph to perfectly fit any screen dimension or orientation without clipping.
 * **Bi-directional Auto-Sync:** Automatically queries your Ableton project on boot to fetch clip names, scene names, and colors.
-* **Neon Vibrance Engine:** Ableton's raw color API returns muted/dark values. `touchlive_module.js` automatically mathematicaly intercepts and boosts the HSL saturation & lightness to create a glowing, neon frontend interface identical to Live's native UI.
 * **Real-time Playback Tracking:** Visually highlights the exact clip currently looping/playing with a bright green border overlay.
 * **Infinite Project Navigation:** Scroll vertically and horizontally through massive projects. The module queries your global `num_tracks` and `num_scenes` to rigorously prevent out-of-bounds scrolling or phantom UI duplicates.
 * **Unified Minimalist Chrome:** Launch scenes, stop individual tracks, or stop all clips with a cohesive, dark-matte professional UI.
